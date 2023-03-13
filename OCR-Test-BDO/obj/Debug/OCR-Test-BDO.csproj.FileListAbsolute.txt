@@ -1,0 +1,16 @@
+C:\Users\m.saamashvili\source\repos\OCR-Test-BDO\OCR-Test-BDO\bin\Debug\x86\leptonica-1.82.0.dll
+C:\Users\m.saamashvili\source\repos\OCR-Test-BDO\OCR-Test-BDO\bin\Debug\x86\tesseract50.dll
+C:\Users\m.saamashvili\source\repos\OCR-Test-BDO\OCR-Test-BDO\bin\Debug\x64\leptonica-1.82.0.dll
+C:\Users\m.saamashvili\source\repos\OCR-Test-BDO\OCR-Test-BDO\bin\Debug\x64\tesseract50.dll
+C:\Users\m.saamashvili\source\repos\OCR-Test-BDO\OCR-Test-BDO\bin\Debug\OCR-Test-BDO.exe.config
+C:\Users\m.saamashvili\source\repos\OCR-Test-BDO\OCR-Test-BDO\bin\Debug\OCR-Test-BDO.exe
+C:\Users\m.saamashvili\source\repos\OCR-Test-BDO\OCR-Test-BDO\bin\Debug\OCR-Test-BDO.pdb
+C:\Users\m.saamashvili\source\repos\OCR-Test-BDO\OCR-Test-BDO\bin\Debug\Tesseract.dll
+C:\Users\m.saamashvili\source\repos\OCR-Test-BDO\OCR-Test-BDO\bin\Debug\Xceed.Document.NET.dll
+C:\Users\m.saamashvili\source\repos\OCR-Test-BDO\OCR-Test-BDO\bin\Debug\Xceed.Words.NET.dll
+C:\Users\m.saamashvili\source\repos\OCR-Test-BDO\OCR-Test-BDO\obj\Debug\OCR-Test-BDO.csproj.AssemblyReference.cache
+C:\Users\m.saamashvili\source\repos\OCR-Test-BDO\OCR-Test-BDO\obj\Debug\OCR-Test-BDO.csproj.SuggestedBindingRedirects.cache
+C:\Users\m.saamashvili\source\repos\OCR-Test-BDO\OCR-Test-BDO\obj\Debug\OCR-Test-BDO.csproj.CoreCompileInputs.cache
+C:\Users\m.saamashvili\source\repos\OCR-Test-BDO\OCR-Test-BDO\obj\Debug\OCR-Test-BDO.csproj.CopyComplete
+C:\Users\m.saamashvili\source\repos\OCR-Test-BDO\OCR-Test-BDO\obj\Debug\OCR-Test-BDO.exe
+C:\Users\m.saamashvili\source\repos\OCR-Test-BDO\OCR-Test-BDO\obj\Debug\OCR-Test-BDO.pdb
